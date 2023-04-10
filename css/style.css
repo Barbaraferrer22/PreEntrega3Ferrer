@@ -1,0 +1,21 @@
+body {
+  font-family: "Quicksand", sans-serif;
+}
+
+footer {
+  padding-top: 1rem;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.info a i {
+  color: rgb(165, 0, 63);
+  margin-left: 1rem;
+  padding: 0.5rem 0;
+}
+
+header {
+  position: sticky;
+  top: 0;
+  z-index: 2;
+}
