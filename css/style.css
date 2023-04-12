@@ -19,3 +19,11 @@ header {
   top: 0;
   z-index: 2;
 }
+
+.logoredes {
+  color: crimson;
+}
+
+.boton {
+  background-color: plum;
+}
