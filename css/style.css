@@ -27,3 +27,8 @@ header {
 .boton {
   background-color: plum;
 }
+
+.texto {
+  color: black;
+  font-weight: 800;
+}
