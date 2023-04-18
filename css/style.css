@@ -6,6 +6,11 @@ footer {
   padding-top: 1rem;
   margin: 0 auto;
   text-align: center;
+  background-image: url("../Imagen/orilla_playa.jpg");
+
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 .info a i {
@@ -21,7 +26,7 @@ header {
 }
 
 .logoredes {
-  color: crimson;
+  color: darkslateblue;
 }
 
 .boton {
