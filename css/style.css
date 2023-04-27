@@ -1,22 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
 body {
   font-family: "Quicksand", sans-serif;
-}
-
-footer {
-  padding-top: 1rem;
-  margin: 0 auto;
-  text-align: center;
-  background-image: url("../Imagen/orilla_playa.jpg");
-
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-}
-
-.info a i {
-  color: rgb(165, 0, 63);
-  margin-left: 1rem;
-  padding: 0.5rem 0;
 }
 
 header {
@@ -24,9 +12,8 @@ header {
   top: 0;
   z-index: 2;
 }
-
-.logoredes {
-  color: darkslateblue;
+header .navcolor {
+  background-color: rgb(255, 244, 253);
 }
 
 .boton {
@@ -37,3 +24,18 @@ header {
   color: black;
   font-weight: 800;
 }
+
+footer {
+  padding-top: 1rem;
+  margin: 0 auto;
+  text-align: center;
+  background-image: url("../Imagen/orilla_playa.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+footer .logoredes {
+  color: darkslateblue;
+}
+
+/*# sourceMappingURL=style.css.map */
