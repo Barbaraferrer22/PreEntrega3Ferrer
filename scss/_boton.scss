@@ -1,0 +1,10 @@
+.boton {
+  background-color: plum;
+  font-weight: 600;
+}
+
+.boton:hover {
+  font-weight: 700;
+  letter-spacing: 3px;
+  border: 3px solid rgb(119, 13, 110);
+}
