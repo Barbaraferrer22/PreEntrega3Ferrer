@@ -1,0 +1,4 @@
+@mixin text-aling($direction) {
+  position: absolute;
+  text-align: $direction;
+}

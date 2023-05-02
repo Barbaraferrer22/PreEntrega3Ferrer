@@ -1,9 +1,9 @@
 footer {
+  @include text-aling(center);
   padding-top: 1rem;
   margin: 0 auto;
-  text-align: center;
+  width: 100%;
   background-image: url("../Imagen/orilla_playa.jpg");
-
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
